@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">KotlinCompose_gallaryShowcase</string>
+
+    <array name="artName">
+        <item>Bacchus and Ariadne</item>
+        <item>Virgin of Guadalupe with the Four Apparitions</item>
+        <item>The Kiss</item>
+        <item>Last of the Buffalo</item>
+        <item>The Voyage of Life Youth</item>
+    </array>
+
+    <array name="artAuthor">
+        <item>Giovanni Battista Tiepolo</item>
+        <item>José Salomé Pina</item>
+        <item>Gustav Klimt</item>
+        <item>Albert Bierstadt</item>
+        <item>Thomas Cole</item>
+    </array>
+
+    <string-array name="artYear">
+        <item>(1696)</item>
+        <item>(1773)</item>
+        <item>(1907)</item>
+        <item>(1888)</item>
+        <item>(1842)</item>
+    </string-array>
+
+    <array name="artDrawingID">
+        <item>@drawable/bacchus_and_ariadne</item>
+        <item>@drawable/virgin_of_guadalupe_with_the_four_apparitions</item>
+        <item>@drawable/the_kiss</item>
+        <item>@drawable/last_of_the_buffalo</item>
+        <item>@drawable/the_voyage_of_life_youth</item>
+    </array>
+
+</resources>
